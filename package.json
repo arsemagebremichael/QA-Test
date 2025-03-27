@@ -1,0 +1,23 @@
+{
+  "name": "qa-test",
+  "version": "1.0.0",
+  "main": "math.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsemagebremichael/QA-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsemagebremichael/QA-Test/issues"
+  },
+  "homepage": "https://github.com/arsemagebremichael/QA-Test#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
